@@ -15,6 +15,10 @@ export const metadata: Metadata = {
     title: "GX CHAT",
     statusBarStyle: "default",
   },
+  icons: {
+    icon: "https://link.cdn.andrewgx.com/pfp",
+    apple: "https://link.cdn.andrewgx.com/pfp",
+  },
 };
 
 export const viewport: Viewport = {
