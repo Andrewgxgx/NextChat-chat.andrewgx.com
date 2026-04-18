@@ -9,10 +9,10 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized: isApp
-      ? `Access denied. Please enter your key in settings.`, // ELSE
+      ? `Access denied. Please enter your key in settings.`// ELSE
     : `Hey! Welcome to [Andrew's NextChat](https://chat.andrewgx.com) \n
          [Click here](/#/auth) to enter your access key 🔑
-         ⚙️`
+         ⚙️`,
   },
   Auth: {
     Return: "Return",
